@@ -1,15 +1,15 @@
 # Simple-Monitoring-DEVOPS
 Simple Monitoring project from DevOps Roadmap https://roadmap.sh/projects/simple-monitoring-dashboard 
 
-******How to run test****
+***How to run test***
 
-----Intall---
+# ***Intall***
 sudo bash setup.sh
 
----Stress test----
+# ***Stress test***
 
 sudo bash test_dashboard.sh
 
-----Uninstall----
+# ***Uninstall***
 
 sudo bash cleanup.sh
